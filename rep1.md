@@ -97,5 +97,3 @@ void draw() {
 }
 ```
 
-[markdown]()
-
